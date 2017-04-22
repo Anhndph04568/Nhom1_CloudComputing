@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Nhom1_CloudComputing", "..\..\WebSites\Nhom1_CloudComputing\", "{E9CA9057-3E33-4F5B-85C0-0C063A43A866}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Nhom1_CloudComputing", "..\..\WebSites\Nhom1_CloudComputing\", "{10D8F1CF-0FBF-49AE-AB68-E1B5175E5105}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/Nhom1_CloudComputing"
@@ -26,8 +26,8 @@ Global
 		Debug|Any CPU = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E9CA9057-3E33-4F5B-85C0-0C063A43A866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E9CA9057-3E33-4F5B-85C0-0C063A43A866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D8F1CF-0FBF-49AE-AB68-E1B5175E5105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D8F1CF-0FBF-49AE-AB68-E1B5175E5105}.Debug|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
