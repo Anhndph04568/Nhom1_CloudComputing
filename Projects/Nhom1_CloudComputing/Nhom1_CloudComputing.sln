@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Nhom1_CloudComputing", "..\..\WebSites\Nhom1_CloudComputing\", "{E9CA9057-3E33-4F5B-85C0-0C063A43A866}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/Nhom1_CloudComputing"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\WebSites\Nhom1_CloudComputing\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Nhom1_CloudComputing\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Nhom1_CloudComputing"
+		Release.AspNetCompiler.PhysicalPath = "..\..\WebSites\Nhom1_CloudComputing\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Nhom1_CloudComputing\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "45745"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9CA9057-3E33-4F5B-85C0-0C063A43A866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9CA9057-3E33-4F5B-85C0-0C063A43A866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
