@@ -2,7 +2,7 @@
 
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" Runat="Server">
     <hgroup class="title">
-        <h1><%: Title %></h1>
+        <h1><%: Title %>.</h1>
     </hgroup>
     <asp:DetailsView CssClass="features-table" ID="DetailsView1" runat="server" Height="50px" Width="500px" AllowPaging="True" AutoGenerateRows="False" BackColor="#CCCCCC" BorderColor="#999999" BorderStyle="Solid" BorderWidth="3px" CellPadding="4" CellSpacing="2" DataKeyNames="MaHD,MaSP" DataSourceID="SqlDataSource1" ForeColor="Black">
         <EditRowStyle BackColor="#000099" Font-Bold="True" ForeColor="White" />

@@ -59,7 +59,7 @@ border-spacing: 0;
 text-shadow: 0 1px 0 #fff;
 color: #2a2a2a;
 background: #fafafa;
-background-image: -moz-linear-gradient(top, #fff, #eaeaea, #fff); /* Firefox 3.6 */
+background-image: -moz-linear-gradient(top, #fff, #eaeaea, #fff);
 background-image: -webkit-gradient(linear,center bottom,center top,from(#fff),color-stop(0.5, #eaeaea),to(#fff));
 }
  
