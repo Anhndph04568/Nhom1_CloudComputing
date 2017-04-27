@@ -4,8 +4,7 @@
     <section class="featured">
         <div class="content-wrapper">
             <hgroup class="title">
-                <h1>&nbsp;&nbsp;&nbsp; DAS.</h1>
-                <h2>Chúng tôi chuyên cung cấp các mặt hàng công nghệ nhằm phục vụ nhu cầu đời sống của mỗi gia đình.</h2>
+                <img width="100%" height="255px" src="Images/banner.png" />
             </hgroup>
         </div>
     </section>
