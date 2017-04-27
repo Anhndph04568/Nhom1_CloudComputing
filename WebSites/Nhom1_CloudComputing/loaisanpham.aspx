@@ -8,7 +8,7 @@
             background-color: #30a5ff;
         }       
     </style>
-    <hgroup class="title">
+    <hgroup class="title" >
         <h1><%: Title %></h1>
     </hgroup>
     <asp:DetailsView CssClass="features-table" ID="DetailsView1" runat="server" Height="50px" Width="500px" AllowPaging="True" AutoGenerateRows="False" BackColor="White" BorderColor="#CC9966" BorderStyle="Solid" BorderWidth="3px" CellPadding="4" CellSpacing="2" DataKeyNames="MaLoai" DataSourceID="SqlDataSource1" ForeColor="Black">

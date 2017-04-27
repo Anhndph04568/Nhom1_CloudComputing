@@ -4,6 +4,11 @@
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <style>
+        .title {
+            color:#6699ff;
+            font-weight:bold;
+            font-size:xx-large;
+        }
         #tables{
             /*aa*/
             color: #fff;
@@ -11,7 +16,7 @@
         }       
     </style>
     <hgroup class="title">
-        <h1><%: Title %></h1>
+        <p><%: Title %></p>
     </hgroup>
     <asp:DetailsView CssClass="features-table" ID="DetailsView1" runat="server" Height="50px" Width="500px" AllowPaging="True" AutoGenerateRows="False" BackColor="White" BorderColor="#CC9966" BorderStyle="Solid" BorderWidth="3px" CellPadding="4" CellSpacing="2" DataKeyNames="MaSP" DataSourceID="SqlDataSource1" ForeColor="Black">
         <EditRowStyle BackColor="#000099" Font-Bold="True" ForeColor="White" />
