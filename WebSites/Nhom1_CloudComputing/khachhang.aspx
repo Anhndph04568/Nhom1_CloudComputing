@@ -2,7 +2,7 @@
 
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" Runat="Server">
     <hgroup class="title">
-        <h1><%: Title %>.</h1>
+        <p style="background-color: #FFFFFF; color: #0000FF"><%: Title %></p>
     </hgroup>
     <asp:DetailsView CssClass="features-table" ID="DetailsView1" runat="server" Height="50px" Width="500px" AllowPaging="True" AutoGenerateRows="False" BackColor="#CCCCCC" BorderColor="#999999" BorderStyle="Solid" BorderWidth="3px" CellPadding="4" CellSpacing="2" DataKeyNames="MaKH" DataSourceID="SqlDataSource1" ForeColor="Black">
         <EditRowStyle BackColor="#000099" Font-Bold="True" ForeColor="White" />
@@ -15,7 +15,7 @@
             <asp:BoundField DataField="SDT" HeaderText="SDT" SortExpression="SDT" />
             <asp:CommandField ButtonType="Button" ShowDeleteButton="True" ShowEditButton="True" ShowInsertButton="True" />
         </Fields>
-         <FooterStyle BackColor="#FFFFCC" ForeColor="#330099" />
+                            <FooterStyle BackColor="#FFFFCC" ForeColor="#330099" />
                             <HeaderStyle BackColor="#990000" Font-Bold="True" ForeColor="#FFFFCC" />
                             <PagerStyle BackColor="#6699ff" ForeColor="Black" HorizontalAlign="Center" />
                             <RowStyle BackColor="#FFFFCC" ForeColor="#330099" />
